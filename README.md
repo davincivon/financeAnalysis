@@ -1,2 +1,6 @@
 # financeAnalysis
 通过爬取新浪财经上的欧元人民币汇率数据生成K线图
+
+python_ant.py是利用python爬取新浪财经上的数据并存储到本地csv文件中
+
+src文件中的程序是Java读取hive中的汇率数据并依次生成K线图
